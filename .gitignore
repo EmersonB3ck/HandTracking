@@ -1,0 +1,10 @@
+__pycache__/
+.vscode/
+*.task
+goturn.*
+*.keras
+*.h5
+asl_data/
+WLASL/
+venv/
+.env
